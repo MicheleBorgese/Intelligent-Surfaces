@@ -1,11 +1,8 @@
-clear all
-close all
-
 % Computes the reflection coefficient of a RIS comprising an array of partches loased with varactor diodes.
 %
-% This function was developed as a part of the paper:
+% This code was developed as a part of the paper:
 %
-% Filippo Costa, Michele Borgese, “Electromagnetic Model of Reflective Intelligent Surfaces,” submitted to iEEE Trasactions On Wireless Communications.
+% Filippo Costa, Michele Borgese, “Electromagnetic Model of Reflective Intelligent Surfaces,” submitted to IEEE Transactions on Wireless Communications.
 %
 % This is version 1.0 (Last edited: 2021-02-15)
 %
