@@ -14,7 +14,7 @@ We present an accurate and simple analytical model for the computation of the re
 
 ## Content of Code Package
 
-The package also contains two Matlab functions that computes the reflection coefficient of a RIS comprising an array of patches loaded with varactor diodes
+The package contains a Matlab function that computes the reflection coefficient of a RIS comprising an array of patches loaded with varactor diodes
 
 See each file for further documentation.
 
