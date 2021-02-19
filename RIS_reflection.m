@@ -1,10 +1,10 @@
 function [gamma_TE,gamma_TM] = RIS_reflection(freq,Dx,wx,Dy,wy,Rs,d,er1,theta_deg,cap,Lvar)
 
-% Computes the reflection coefficient of a RIS comprising an array of partches loased with varactor diodes.
+%This function computes the reflection coefficient of a RIS comprising an array of patches loaded with varactor diodes.
 %
 % This function was developed as a part of the paper:
 %
-% Filippo Costa, Michele Borgese, “Electromagnetic Model of Reflective Intelligent Surfaces,” submitted to iEEE Trasactions On Wireless Communications.
+% Filippo Costa, Michele Borgese, “Electromagnetic Model of Reflective Intelligent Surfaces”, submitted to IEEE Transactions on Wireless Communications.
 %
 % This is version 1.0 (Last edited: 2021-02-15)
 %
