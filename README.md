@@ -3,7 +3,7 @@
 
 This is a code package is related to the follow scientific article:
 
-Filippo Costa and Michele Borgese, “[Electromagnetic Model of Reflective Intelligent Surfaces] (https://arxiv.org/abs/2102.10666)” submitted to IEEE Transactions on Wireless Communications
+Filippo Costa and Michele Borgese, “[Electromagnetic Model of Reflective Intelligent Surfaces] (https://arxiv.org/pdf/2102.10666.pdf)” submitted to IEEE Transactions on Wireless Communications
 
 The package contains a Matlab code that reproduces some of the numerical results and figures in the article.
 
